@@ -1,14 +1,18 @@
 static GLOBAL_INTEGER: i32 = 10;
 fn main() {
-    let s = String::from("howdy");
-    
-    takes_ownership(s);
-    
-    let x = 5;
-    
-    makes_copy(x);
 
+    let s = String::from("howdy");
+    takes_ownership(s);
+
+    let x = 5;
+    makes_copy(x);
     tries_context();
+
+    let word = first_word(&s);
+
+    s.clear(); // error!
+
+    println!("the first word is: {}", word);
 }
 
 fn takes_ownership(string_name: String) {
