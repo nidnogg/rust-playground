@@ -15,3 +15,4 @@ Covered chapters:
 | Chapter 4 - Ownership | :white_check_mark |
 | Chapter 5 - Structs | :white_check_mark |
 | Chapter 6 - Enums | :white_large_square |
+
