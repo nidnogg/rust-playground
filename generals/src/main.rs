@@ -15,6 +15,10 @@ fn main() {
     println!("the first word is: {}", word);
 }
 
+fn first_word(raw_string: String) {
+    return raw_string;
+}
+
 fn takes_ownership(string_name: String) {
     println!("{}", string_name  );
 }
