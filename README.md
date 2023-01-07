@@ -1,5 +1,5 @@
 # rust-playground
-Repo for grokking Rust lang. 
+Repo for grokking Rust lang.
 
 Currently following [The Rust Book](https://doc.rust-lang.org/).
 
@@ -14,5 +14,7 @@ Covered chapters:
 | Chapter 3 - Common Concepts| :white_check_mark: |
 | Chapter 4 - Ownership | :white_check_mark: |
 | Chapter 5 - Structs | :white_check_mark: |
-| Chapter 6 - Enums | :white_large_square: |
+| Chapter 6 - Enums | :white_check_mark: |
+| Chapter 7 - Crates | :white_check_mark: |
+| Chapter 8 - Common Collections | :white_large_square: |
 
