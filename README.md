@@ -16,5 +16,7 @@ Covered chapters:
 | Chapter 5 - Structs | :white_check_mark: |
 | Chapter 6 - Enums | :white_check_mark: |
 | Chapter 7 - Crates | :white_check_mark: |
-| Chapter 8 - Common Collections | :white_large_square: |
+| Chapter 8 - Common Collections | :white_check_mark: |
+| Chapter 9 - Error Handling | :white_large_square: |
+
 
